@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @twin-sea  
-🎓 SY BCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
+🎓Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
 ## About Me  
 - 🔭 Currently learning **Java, Android Development, .NET, and IoT**  
