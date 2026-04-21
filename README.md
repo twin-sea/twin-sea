@@ -156,9 +156,9 @@ Budget management app with category tracking, visual breakdowns, and Firebase-ba
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twin-sea&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues)](https://github.com/twin-sea)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twin-sea&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&count_private=true)](https://github.com/twin-sea)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twin-sea&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs)](https://github.com/twin-sea)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twin-sea&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)](https://github.com/twin-sea)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=twin-sea&theme=tokyonight&hide_border=true)](https://github.com/twin-sea)
+[![GitHub Streak](https://streak-stats.demolab.com?user=twin-sea&theme=tokyonight&hide_border=true&card_width=500)](https://github.com/twin-sea)
 
 </div>
 
@@ -166,7 +166,8 @@ Budget management app with category tracking, visual breakdowns, and Firebase-ba
 
 ## 🐍 Contribution Graph
 
-[![Snake animation](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake animation appears here once you run the GitHub Action below -->
+[![Snake animation](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake-dark.svg)](https://github.com/twin-sea)
 
 ---
 
