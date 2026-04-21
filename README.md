@@ -1,76 +1,218 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+%40twin-sea+%F0%9F%91%8B;Student+%7C+Aspiring+Software+Developer+%F0%9F%92%BB;Java+%7C+Android+%7C+.NET+%7C+IoT+%7C+Web;Building+things+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=twin-sea&color=6366f1&style=flat&label=Profile+Views)](https://github.com/twin-sea)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+%40twin-sea+%F0%9F%8C%8A;I+build+things+at+the+edge+of+hardware+%26+software;Android+%7C+IoT+%7C+AI+%7C+ML+%7C+Web;Sensor+%E2%86%92+Logic+%E2%86%92+Impact)](https://git.io/typing-svg)
 
----
+<br/>
 
-### What I'm about
+![Profile Views](https://komarev.com/ghpvc/?username=twin-sea&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Student](https://img.shields.io/badge/🎓_Student-Developer-38bdf8?style=for-the-badge)
+&nbsp;
+![Open To Collaborate](https://img.shields.io/badge/Open_To-Collaborate-22c55e?style=for-the-badge)
 
-Student, aspiring software developer, and someone who learns by building. I don't just study syntax — I build things to understand how they actually work. Right now that means Android apps, IoT experiments, financial tools, and whatever problem I find interesting enough to turn into a project.
-
-Currently getting comfortable with Java, .NET, and Android Studio while deepening my math foundation — because clean logic starts with clear thinking. Also genuinely interested in where AI and IoT intersect: systems that respond to the real world in real time.
-
----
-
-### What I'm building
-
-- **[Hotel Room Booking App](#)** — Java + SQLite booking system. Clean data layer, simple interface, real-world problem. 🏨
-- **[Mood-Based Music Player](https://github.com/twin-sea/Mood-Based-Music-Player)** — IoT project that detects your mood and plays music accordingly. Sensor input → logic → audio output. 🎵
-- **[Smart Expense Tracker](#)** — Budget management app. Simple, effective, actually useful. 💰
-- **[Stock Market Analyzer](#)** — Financial tool for tracking resistance levels and patterns. Where code meets markets. 📊
-- **[UrbanYatraa](https://github.com/twin-sea/UrbanYatraa)** — Kotlin-based travel app. In progress. 🗺️
-- **[PetiteFlair Website](https://github.com/twin-sea/petiteflair-website)** — Aesthetic web project. Soft tones, outfits, and Pinterest vibes. 🌸
+</div>
 
 ---
 
-### Stack
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,cpp,html,css,js)](https://skillicons.dev/)
+## 🧭 Who I Am
 
-[![Tools & Platforms](https://skillicons.dev/icons?i=androidstudio,dotnet,sqlite,git,github,vscode)](https://skillicons.dev/)
+I'm a student developer operating at the intersection of **hardware and intelligence** — where ESP32 sensors talk to Firebase, where TensorFlow models ship as real products, and where Android apps actually solve problems people have.
 
-![IoT](https://img.shields.io/badge/IoT-0ea5e9?style=flat-square&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Dev-3ddc84?style=flat-square&logo=android&logoColor=white)
-![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-f59e0b?style=flat-square&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML_(exploring)-6366f1?style=flat-square&logoColor=white)
+I don't prototype. I build until it works in the real world.
 
----
+- 🔭 Building **AI + IoT systems** end to end
+- 🧠 Training **ML models** on real-world image data
+- 📱 Shipping **Android apps** in Kotlin & Java
+- 🌱 Deepening **math & DSA** foundations daily
+- ⚡ Currently obsessed with: **TheraSense + Edge ML**
 
-### GitHub Stats
-
-[![twin-sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=twin-sea&show_icons=true&hide=stars,issues,contribs&hide_rank=true&count_private=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=9ca3af&include_all_commits=true)](https://github.com/twin-sea)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twin-sea&layout=compact&hide_border=true&title_color=a78bfa&theme=transparent&text_color=9ca3af&langs_count=6&count_private=true)](https://github.com/twin-sea)
-
-[![Snake animation](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake.svg)
+<br clear="right"/>
 
 ---
 
-### Currently
+## 🏗️ Featured Projects
 
-- 📱 Android Development — building real apps, not just following tutorials
-- ☕ Java — deepening fundamentals through projects
-- 🌐 .NET — exploring backend and cross-platform development
-- 🔌 IoT — connecting code to the physical world
-- 📐 Math — strengthening the foundation everything else builds on
-- 🤖 AI & ML — curious, reading, starting to experiment
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🫀 TheraSense
+**AI + IoT Health Monitoring System**
+
+A full-stack health monitoring pipeline. ESP32 reads physical sensor data in real time, streams it to Firebase Firestore, and ML models flag anomalies and health alerts automatically.
+
+`ESP32` `Sensors` `Firebase` `Firestore` `Machine Learning` `Python`
+
+> *Where hardware meets health intelligence.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Interior Style Classifier
+**ML Image Classification Model**
+
+Trained a TensorFlow model to classify interior room designs by style — modern, minimalist, industrial, and more. Handled the full pipeline: data preprocessing, augmentation, training, and evaluation.
+
+`TensorFlow` `Python` `Image Classification` `CNN` `Data Pipeline`
+
+> *Teaching a model to see what designers feel.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Mood-Based Music Player
+**IoT + Emotion Detection App**
+
+IoT system that detects your mood through sensors and plays music that matches your emotional state. Real-world sensor input feeding real-time audio decisions.
+
+`ESP32` `IoT` `Android` `Kotlin`
+
+> *Sensors that listen. Music that responds.*
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Stock Market Analyzer
+**Financial Pattern Recognition Tool**
+
+Tracks resistance and support levels, identifies price patterns, and surfaces actionable signals. Where programming meets financial analysis.
+
+`Python` `REST APIs` `Data Analysis`
+
+> *Finding signal in the noise of markets.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Room Booking App
+**Full Booking System**
+
+Java + SQLite booking system with room management, availability checks, and clean data architecture built from scratch.
+
+`Java` `SQLite` `Android`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Smart Expense Tracker
+**Personal Finance App**
+
+Budget management app with category tracking, visual breakdowns, and Firebase-backed sync across devices.
+
+`Kotlin` `Firebase` `Android`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### What I find interesting
+## 🛠️ Tech Stack
 
-- The gap between "I know the syntax" and "I can build something real with it"
-- IoT systems that respond to physical-world inputs — not just blinking an LED
-- Why financial patterns repeat and whether they can be modeled systematically
-- Building things I want to exist, not just things that look good on a portfolio
-- How math underpins every algorithm that seems like magic on the surface
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Mobile & Frontend**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-38BDF8?style=for-the-badge&logoColor=white)
+
+**AI · ML · IoT**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logoColor=white)
+![IoT / ESP32](https://img.shields.io/badge/IoT%20%2F%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+**Design & Tools**
+
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### Let's connect
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/twin-sea)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twin-sea&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues)](https://github.com/twin-sea)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twin-sea&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&count_private=true)](https://github.com/twin-sea)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=twin-sea&theme=tokyonight&hide_border=true)](https://github.com/twin-sea)
+
+</div>
 
 ---
 
-*Still learning. Always building. The repos will catch up.*
+## 🐍 Contribution Graph
+
+[![Snake animation](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/twin-sea/twin-sea/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📌 Currently Focused On
+
+```text
+🫀  TheraSense (AI + IoT)     ████████████░░░░   Sensor pipeline + ML alerts
+🏠  Interior Style ML         ██████████░░░░░░   Model tuning + deployment
+📱  Android Development       ████████████░░░░   Kotlin + Jetpack Compose
+🤖  Machine Learning          ████████░░░░░░░░   TensorFlow + edge inference
+📐  Math & DSA                ██████████░░░░░░   Strengthening the foundation
+```
+
+---
+
+## 💡 Engineering Philosophy
+
+```
+Don't just learn the tool.
+Understand the problem the tool was invented to solve.
+Then decide if it's the right tool.
+```
+
+> I build at the intersection of hardware reality and software intelligence.
+> The physical world has constraints that notebooks don't. That's what makes it interesting.
+
+---
+
+## 💭 Things I Think About
+
+- Why most IoT demos never survive contact with real users — and how to fix that
+- The line between a "smart" system and one that just has sensors attached to it
+- How image classification and room design share the same core question: *what makes something belong?*
+- Financial patterns as emergent behavior — not magic, just math with memory
+- Why building for yourself first is the most honest form of product development
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40twin--sea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twin-sea)
+
+<br/>
+
+*Building at the edge of hardware and intelligence.* 🌊
+
+</div>
